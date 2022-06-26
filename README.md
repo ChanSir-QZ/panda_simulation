@@ -1,4 +1,8 @@
-# Active inference for robot manipulators. Simulation using Franka Emika Panda 7-DOF
+# Active inference for robot manipulators. Simulation using Kinova Gen3 7-DOF
+
+### Introduction
+基于Pezzato C.的仿真工作，本人将其所使用的硬件平台Panda机械臂替换为Gen3机械臂。
+
 
 ### How to cite this work
 This simulation was developed to support the theoretical results of this work:
